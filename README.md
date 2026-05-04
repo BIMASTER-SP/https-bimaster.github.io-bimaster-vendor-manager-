@@ -1,6 +1,6 @@
 # BiMaster Vendor Manager
 
-Plataforma de gestão Amazon Vendor — sistema interno BiMaster.
+Plataforma de gestão Amazon Vendor — sistema interno BiMaster. 
 
 ## 🌐 Acesso ao sistema
 
